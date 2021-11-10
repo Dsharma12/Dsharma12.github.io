@@ -19,6 +19,6 @@
 	<img width="300" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/International_Pok%C3%A9mon_logo.svg/1200px-International_Pok%C3%A9mon_logo.svg.png"/>
 	</a>Click the logo to see more Pokemon.
     </p>
-    <h2><a href="file:///E:/CSUS/CPE-CSC%20196W/fancifymytext.html">Assignment 4 - Fun with Javascript</a></h2>
+    <h2><a href="fancifymytext.html">Assignment 4 - Fun with Javascript</a></h2>
   </body>
 </html>
